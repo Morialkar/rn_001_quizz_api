@@ -3,6 +3,10 @@
 Homestead.json
 Homestead.yaml
 .env
+public/storage
+public/hot
+storage/*.key
+/.vagrant
 
 # Created by https://www.gitignore.io/api/vim,node,macos,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=vim,node,macos,visualstudiocode
